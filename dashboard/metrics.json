@@ -1,0 +1,39 @@
+{
+  "provenance": "Undated aggregate export; year denotes the reporting view, not observed transaction dates.",
+  "metrics": {
+    "reporting_year": 2025,
+    "source_rows": 10692,
+    "profitable_rows": 8564,
+    "vendors": 118,
+    "brands": 8544,
+    "sales": 441408069.4499999,
+    "purchases": 307338437.47,
+    "gross_profit": 134069631.98000002,
+    "weighted_margin": 30.373171960143928,
+    "net_unsold_capital": 2708177.22,
+    "positive_unsold_capital": 9553539.19,
+    "top10_purchase_share": 65.68960039360742,
+    "target_brands": 198,
+    "bulk_cost_reduction_pct": 72.41329519833356,
+    "welch_t": -17.66952328154073,
+    "welch_p": 2.2968978144315674e-66,
+    "top_margin": {
+      "mean": 31.177912433072315,
+      "lower": 30.742063812031255,
+      "upper": 31.613761054113375,
+      "n": 2141
+    },
+    "low_margin": {
+      "mean": 41.56916981297642,
+      "lower": 40.50141289982574,
+      "upper": 42.6369267261271,
+      "n": 2141
+    }
+  },
+  "unit_cost_by_order_size": {
+    "Small": 39.068186274509806,
+    "Medium": 15.486414300736067,
+    "Large": 10.777625218914185
+  },
+  "source_has_transaction_dates": false
+}
