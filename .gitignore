@@ -1,1 +1,38 @@
-data/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (keep samples)
+*.csv
+!data/sample_*.csv
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/*.log
+
+# Power BI cache
+*.pbit
+
+.venv/
